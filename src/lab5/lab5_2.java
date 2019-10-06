@@ -18,7 +18,6 @@ public class lab5_2 {
         double v = (4/3)*PI*r*r*r;
         System.out.println("ปริมาตรทรงกลม: " + v);
 
-        double r*r/3.141
-        System.out.println()
+
     }
 }

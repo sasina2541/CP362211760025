@@ -9,7 +9,7 @@ public class ex4 {
                 System.out.println("hello.");
                 System.out.println("\tmind");
             }else
-        }
+
             System.out.println("hello.");
 
 

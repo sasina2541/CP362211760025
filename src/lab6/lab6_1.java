@@ -1,7 +1,7 @@
 package lab6;
 
 public class lab6_1 {
-    public class ConvertTemperature {
+
         public static void main(String[] args) {
             int temp;
             int far;
