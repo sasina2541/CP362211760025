@@ -39,7 +39,7 @@ public class ex2 {
             if (min > i)
                 min = i;
         }
-        System.out.println("The maximum number: "+min);
+        System.out.println ("The maximum number: "+min);
 
         //find average
         int total = 0
