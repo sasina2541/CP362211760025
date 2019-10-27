@@ -22,4 +22,4 @@ public class lab6_3 {
             in.close();
         }
     }
-}
+

@@ -15,18 +15,22 @@ public class ex3 {
         int selector = sc.nextByte();
 
         //switch-case
-        switch (selector){
-            case 1: System.out.println("Sure? This subject is very hard.");
-                    break;
-            case 2: System.out.println("Yes, Computer Programming is very fun.");
-                    break;
-            case 3: System.out.println("Ohhh,you might expert in programming.");
-                    break;
-            default: System.out.println("You have to enter 1-3");
+        switch (selector) {
+            case 1:
+                System.out.println("Sure? This subject is very hard.");
+                break;
+            case 2:
+                System.out.println("Yes, Computer Programming is very fun.");
+                break;
+            case 3:
+                System.out.println("Ohhh,you might expert in programming.");
+                break;
+            default:
+                System.out.println("You have to enter 1-3");
 
         }
 
+    }
 
 
 
-}

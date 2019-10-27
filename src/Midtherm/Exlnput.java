@@ -1,7 +1,6 @@
-import java.time.Year;
+package Midtherm;
+
 import java.util.Scanner;
-
-
 
 public class Exlnput {
 
@@ -31,3 +30,4 @@ public class Exlnput {
     }
 
 }
+
